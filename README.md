@@ -48,7 +48,5 @@ This project presents a comprehensive business analysis of **Bhagyalaxmi Kirana 
 - Pranavi (2451-22-750-011)  
 - Sharanya (2451-22-750-051)
 
----
 
-📂 For a detailed analysis report, refer to `Final Analysis.pdf` included in the repository.
 
