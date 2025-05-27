@@ -12,7 +12,7 @@ This project presents a comprehensive business analysis of **Bhagyalaxmi Kirana 
   - Data Preprocessing  
   - Financial Formulas  
 
-## 📁 Data Description
+##  Data Description
 - **Duration:** 31 days  
 - **Data Points:** Sales volume, selling price, purchase quantity, purchase price, and inventory  
 - **SKUs:** 10 common grocery items including rice, ghee, cooking oil, milk & dairy, and dry fruits.
